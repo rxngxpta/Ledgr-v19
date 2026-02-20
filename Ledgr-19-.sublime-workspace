@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Investment",
+				"InvestmentLab"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"C",
+				"CLIENT_SECRET"
+			],
+			[
+				"client",
+				"client_secret"
+			],
+			[
+				"co",
+				"use_container_width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/r-xn/Documents/Production_Alpha/Ledgr-v17-main/Dockerfile",
+		"/home/r-xn/Documents/Production_Alpha/Ledgr-v17-main/requirements.txt",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/2 - InvestmentLab.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/4 - ForecastEngine.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/Ledgr-v17-main/app.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/6 - Resources_and_Tutorials.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/Home.py",
+		"/home/r-xn/Documents/Production_Alpha/Ledgr-v17/Home.py",
+		"/home/r-xn/Documents/Production_Alpha/Ledgr-v18/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/Production_Alpha/Ledgr-v18/5 - ValuationModels.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/7 - Your_Journey_and_Feedback.py",
+		"/home/r-xn/Documents/Ledgr-v17B/app.py",
+		"/home/r-xn/Documents/Ledgr-v17-main/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/3 - AnalyticsBox.py",
+		"/home/r-xn/Documents/Ledgr-v17B/pages/1 - LedgrBase.py",
+		"/home/r-xn/Documents/Ledgr-v17-main/Home.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/pages/2 - InvestmentLab.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/pages/1 - LedgrBase.py",
+		"/home/r-xn/Documents/ledgr-v16A/Home.py",
+		"/home/r-xn/Documents/ledgr-v16B/Home.py",
+		"/home/r-xn/Documents/ledgr-v14B/Home.py",
+		"/home/r-xn/Public/Internal_Trials/Google_Analytics_Dashbards.py",
+		"/home/r-xn/Documents/ledgr-v16/pages/3 - AnalyticsBox.py",
+		"/home/r-xn/Documents/ledgr-v16/pages/2 - InvestmentLab.py",
+		"/home/r-xn/Documents/ledgr-v16/pages/4 - ForecastEngine.py",
+		"/home/r-xn/Documents/ledgr-v16/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/ledgr-v16/pages/7 - Your_Journey_and_Feedback.py",
+		"/home/r-xn/Documents/ledgr-v16/Home.py",
+		"/home/r-xn/Documents/h2.py",
+		"/home/r-xn/Videos/sitelist",
+		"/home/r-xn/Videos/Analytics Scripts/AnalyticsBox - Moving Averages Explained",
+		"/home/r-xn/Documents/ledgr-v16/requirements.txt",
+		"/home/r-xn/Documents/ledgr-v16/pages/appdata/u_info/user.csv",
+		"/home/r-xn/Documents/ledgr-v14B/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/4 - ForecastEngine.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/3 - AnalyticsBox.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/2 - InvestmentLab.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/1 - LedgrBase.py",
+		"/home/r-xn/Documents/ledgr-v14B/.streamlit/secrets.toml",
+		"/home/r-xn/Documents/ledgr-v14A/Home.py",
+		"/home/r-xn/Documents/ledgr-v14A/h2.py",
+		"/home/r-xn/Documents/ledgr-v14A/pages/1 - LedgrBase.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/6 - Resources_and_Tutorials.py",
+		"/home/r-xn/Documents/ledgr-v14B/pages/7 - Your_Journey_and_Feedback.py",
+		"/home/r-xn/Documents/ledgr-v14B/h2.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/Home.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages/5 - ValuationModels.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages2/6 - Resources_and_Tutorials.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages2/7 - Your_Journey_and_Feedback.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages2/8 - DiscussionRow.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages/7 - Your_Journey_and_Feedback.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages2/5 - ValuationModels.py",
+		"/home/r-xn/Documents/ledgr-v10-2A/pages/3 - AnalyticsBox.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/.streamlit/secrets.toml",
+		"/home/r-xn/Documents/ledgr-v10-1-main/h2.py",
+		"/home/r-xn/Documents/ledgr-v10-1-main/app.yaml",
+		"/home/r-xn/Documents/ledgr-v10-1-main/secrets.toml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "Ledgr-19-.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
