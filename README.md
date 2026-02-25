@@ -1,4 +1,4 @@
-# ledgr-v1
+# ledgr-v19
 
 				" Efficient investments, build efficient Economies."
 
@@ -16,7 +16,10 @@ Given that Financial Markets are Complex, Adaptive and Reactive, Ledgr's algorit
 
 And everything is presented in streamlined Dashboards, in each engine.
 
-This, is because many users find too litle time to handle their own incomes, paradoxically. 
-So, we made it easy, holistic and comprehensible for them.
+Given that many users find too litle time to handle their own incomes, therefore, we made the experience simple, easy, holistic and comprehensible for them. Continual Improvement, streamlining Ledgr's features, maintaining their consistent performance, in hand with introducing novel features shall enable mutual sustainable growth by design, thereby benefitting both the user and us to serve them better.
 
 Ledgr is a symbiotic ecosystem designed to benefit the user through knowledge, and grows with their feedback. Because, together we grow and thrive as a community.
+
+
+Visit Ledgr at - www.alphaledgr.com
+Check out Our Youtube Channel - www.youtube.com/@LedgrInc
